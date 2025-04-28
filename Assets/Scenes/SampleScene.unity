@@ -689,7 +689,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 20
-  maxHealth: 1
+  maxHealth: 610
   backGroundCollar: {fileID: 1070487431}
 --- !u!114 &450666825
 MonoBehaviour:
